@@ -1,0 +1,16 @@
+﻿.my-site-heading-lower {
+    font-family: 'Lucida Bright';
+    
+}
+.my-site-heading-upper {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white !important;
+}
+.my-bold{
+    font-weight: bold;
+    float: right;    
+}
+
+.my-italic{
+    font-style: italic;
+}

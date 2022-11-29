@@ -1,0 +1,77 @@
+﻿.tablaeu {
+    text-align: left;
+    margin-
+    
+}
+body {
+    background-image: url("https://www.itl.cat/pngfile/big/41-416322_1920x1080-animated-thunderstorm-beautiful-lightning.jpg");
+    background-size: cover;
+}
+.cool-background{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right:50px;
+    margin-left:10px;
+    font-family: 'Times New Roman' ;
+    font-size:large;
+
+}
+h1{
+    color:antiquewhite;
+    font-size:xxx-large;
+    text-align:center;
+}
+h2{
+    color:orange;
+    text-align: center;
+}
+.my-site-heading-lower {
+    font-family: 'Lucida Bright';
+}
+.link-background {
+    text-align: center;
+    background-color: #2E1503;
+    padding: 30px;
+    font-size: xx-large;
+    color: antiquewhite;
+    border-size:1px;
+    border-color:black;
+    word-spacing: 15px;
+    
+}
+.hover{
+    background-color:000001;
+
+}
+.back-top{
+    text-align:center;
+    font-size:x-large;
+    background-color:antiquewhite;
+    padding:10px;
+    border-radius:8px;
+}
+.copyright{
+    text-align:center;
+    color:antiquewhite;
+    margin-bottom:12px;
+}
+img{
+    width: 500px;
+    border:black solid 5px;
+    height:400px;
+    
+}
+iframe{
+    height:400px;
+    border:black solid 5px;
+    
+}
+.list-format {
+    color: black;
+    background-image: url("https://th.bing.com/th/id/R.9fc219d79ecbe0d9b775331f58f4b140?rik=YGBSGC8tC4hhxA&riu=http%3a%2f%2fwww.photos-public-domain.com%2fwp-content%2fuploads%2f2012%2f04%2fclouds.jpg&ehk=6anfiBp%2fLaTCxcdZMcNqyaDAXZgB0LoEmPCSxcw16FY%3d&risl=&pid=ImgRaw&r=0");
+    border-radius: 10px;
+    font-family: 'Times New Roman';
+    padding:10px;
+    font-size:large;
+}
